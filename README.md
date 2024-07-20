@@ -21,3 +21,9 @@ A classic Hangman game implemented in Python. The game randomly selects a word f
 To start the game, run the following command in your terminal:
 
 python hangman.py
+
+Gameplay
+The game randomly selects a word from a predefined list.
+The player guesses letters one at a time.
+The player has a total of 7 lives. An incorrect guess reduces the number of lives by 1.
+The game ends when the player either guesses the word correctly or runs out of lives.

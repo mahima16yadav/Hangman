@@ -10,7 +10,7 @@ A classic Hangman game implemented in Python. The game randomly selects a word f
 
 2. **Navigate to the project directory:**
 
-    cd hangman-game
+    cd Hangman
 
 3. **Install the required dependencies (if any):**
  

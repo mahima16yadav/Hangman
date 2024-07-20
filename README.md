@@ -22,7 +22,7 @@ To start the game, run the following command in your terminal:
 
 python hangman.py
 
-**Gameplay:**
+##Gameplay:
 
 The game randomly selects a word from a predefined list.
 The player guesses letters one at a time.

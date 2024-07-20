@@ -6,7 +6,7 @@ A classic Hangman game implemented in Python. The game randomly selects a word f
 
 1. **Clone the repository:**
 
-    git clone https://github.com/mahima16yadav/hangman-game.git
+    git clone https://github.com/mahima16yadav/Hangman.git
 
 2. **Navigate to the project directory:**
 
